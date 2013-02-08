@@ -22,21 +22,12 @@
 
 \section{EDUCATION}
    \vspace{0.05in}
-<<<<<<< HEAD
-    University of North Carolina at Chapel Hill, Chapel Hill, NC\\        
-    Doctor of Philosophy, Computer Science, 2012-2017 (expected) \\ 
-    Advisor: Stephen Pizer\\       
-    \\           
-    Polytechnic Institute of New York University,  Brooklyn, NY\\        
-    Bachelor of Science, Electrical Engineering and Computer Engineering, 2010-2012 \\        
-=======
     University of North Carolina at Chapel Hill, Chapel Hill, NC\\
     Doctor of Philosophy, Computer Science, 2012-2017 (expected) \\
     Advisor: Professor Stephen Pizer\\
     \\
     Polytechnic Institute of New York University,  Brooklyn, NY\\
     Bachelor of Science, Electrical Engineering and Computer Engineering, 2010-2012 \\
->>>>>>> 957a6c00c37f065a9bee0d53d813cb57d8f58b9f
     G.P.A. 3.86/4.0 \\
     \\
     Courant Institute of New York University, New York, NY\\
@@ -109,7 +100,7 @@
     \begin{tabbing}
    \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
 
-    {\bf Other recent projects can be found on my GitHub page: \href{https://github.com/tingleshao}{\underline{https://github.com/tingleshao}}}
+    {\bf Other recent projects can be found on my \href{https://github.com/tingleshao}{\underline{GitHub page: https://github.com/tingleshao}}}
   \end{tabbing}
 
 
