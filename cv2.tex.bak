@@ -72,11 +72,21 @@
 
 \section{PROJECTS}
    \vspace{-0.05in}	
+   \begin{tabbing}
+   \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
+    {\bf Rablo2d} \>Research Project, UNC Chapel Hill\> ~~~~~~~~~~~~Fall 2012\\
+   \end{tabbing}\vspace{-20pt}
+   Rablo2d is designed to be a 2D analogy of the more-than-ten-year history software ``Pablo" in UNC-Chapel Hill medical image research group. Pablo is a tool in displaying anatomic objects in the form of skeletal models. Pablo also preforms the fitting of a skeletal model to a medical image which is used for object segmentation. In contrast, Rablo2d can also display objects in 2D in skeletal model form. And the goal of creating the 2D analogy of Pablo is to discover the multi-object relationship in terms of statistics. The software is built using the simple GUI framework ``rubyshoes". It is written in Ruby, a numerical library in Python is also used.
+   \begin{tabbing}
+   \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
+    {\bf Tabellae Victus} \>Undergraduate Design Project, NYU-Poly\> ~~~~~~~~~~~~Spring 2012\\
+   \end{tabbing}\vspace{-20pt}
+   Tabellae Victus is an implementation of the idea ``redefining document". Document should not only contain text or some figures but also more richer form of media such as video and audio. Tabellae Victus is a online document editor and viewer application. HTML5/JavaScript are used in building the front end. JSON is used in communication. Back end is built using PHP. A whole implementation of server was proposed and some initial implementation of the server was completed using C++. This project won the ``best design project" in NYU-Poly in the year of 2012. My role in the team was the developer of the front end.
   \begin{tabbing}
    \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
     {\bf Handheld 3D Scanner} \>Computational Photography, NYU Courant\> ~~~~~~~~~~~~Fall 2011\\
    \end{tabbing}\vspace{-20pt}
-    Implemented ``structure from motion" in two ways: Bundler and factorization method. Wrote code to implement factorization method. Applied two matlab toolboxes in camera calibration. \\
+    Implemented ``structure from motion" in two ways: Bundler and factorization method. Wrote code to implement factorization method. Applied two matlab toolboxes in camera calibration.
        \begin{tabbing}
    \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
     {\bf Parallel Sorting} \>Intro to Embedded System, NYU-Poly     \>~~~~~~~~~~~Fall 2011 \\
@@ -100,7 +110,8 @@
     \begin{tabbing}
    \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
 
-    {\bf Other recent projects can be found on my \href{https://github.com/tingleshao}{\underline{GitHub page: https://github.com/tingleshao}}}
+    {\bf Other recent projects can be found on my GitHub page: \href{https://github.com/tingleshao}{\underline{https://github.com/tingleshao}}}\\[0.3cm]
+    {\bf Number of problems solved independently on Project Euler: 19/416}
   \end{tabbing}
 
 \section{APPLICATIVE SKILLS}
