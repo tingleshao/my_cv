@@ -14,7 +14,7 @@
 \name{CHONG SHAO\\[12pt]}     % the \\[12pt] adds a blank
 				        % line after name
 \address{\bf E-MAIL \\ \texttt{cshao@cs.unc.edu}\\            \\ }
-\address{\bf  PRESENT ADDRESS\\425 Hillsborough ST, APT 6C\\Chapel Hill, NC 27514\\(919) 619-0326}
+\address{\bf  CONTACT INFORMATION\\Campus Box 3175, Sitterson Hall\\ UNC-Chapel Hill\\ Chapel Hill, NC 27599-3715 USA\\(919) 619-0326}
 
 
 \begin{resume}
@@ -111,7 +111,7 @@
    \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
 
     {\bf Other recent projects can be found on my GitHub page: \href{https://github.com/tingleshao}{\underline{https://github.com/tingleshao}}}\\[0.3cm]
-    {\bf Number of problems solved independently on Project Euler: 41/417}
+    {\bf Number of problems solved independently on Project Euler: 50/417}
   \end{tabbing}
 
 \section{APPLICATIVE SKILLS}
